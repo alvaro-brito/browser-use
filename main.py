@@ -6,7 +6,6 @@ import json
 
 # Optional: Set the OLLAMA host to a remote server
 # os.environ["OLLAMA_HOST"] = "http://x.x.x.x:11434"
-os.environ["OLLAMA_HOST"] = "https://kux579y5g3wu34-11434.proxy.runpod.net"
 
 import asyncio
 from browser_use import Agent
